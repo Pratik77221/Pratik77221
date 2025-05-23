@@ -30,6 +30,8 @@ Hi, I'm Pratik ✨<br><br>🎓 MSc Immersive Technology student at the Universit
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pratik77221&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🧠 Most Used Language (Manual)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pratik77221&icon=0&color=0)](https://visitcount.itsvg.in)
