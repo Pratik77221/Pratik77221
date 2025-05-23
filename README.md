@@ -20,18 +20,10 @@ Hi, I'm Pratik ✨<br><br>🎓 MSc Immersive Technology student at the Universit
 ![Three.js](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)  
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pratik77221&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Pratik77221&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik77221&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pratik77221&limit=5&theme=dark&combine_all_yearly_contributions=true)
-### 🧠 Most Used Language (Manual)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pratik77221&icon=0&color=0)](https://visitcount.itsvg.in)
